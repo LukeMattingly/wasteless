@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Mobile App(Android or iOS) that tracks expiration of food and sends notifications before it expires",
+    "githubUrl": "https://github.com/LukeMattingly/wasteless"
   }
 }
