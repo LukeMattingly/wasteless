@@ -6,7 +6,7 @@ import { StyleSheet, Text, View, Image, TouchableHighlight } from 'react-native'
 export default function App() {
   console.log(require('./assets/favicon.png'));
 
-  const handlePress = () => console.log("Text Pressed");
+  const handlePress = () => console.log("Random change for commit");
 
   return (
     <View style={styles.container}>
